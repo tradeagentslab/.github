@@ -8,6 +8,6 @@ For people who build, run and watch AI trading agents: an open-source safety she
 - Code: https://github.com/tradeagentslab/tradeagentslab
 - Arena results: https://github.com/tradeagentslab/arena-data
 
-Simulated trading. Past results don't predict future results. Not investment advice. Not for residents of the UK or US.
+Simulated trading. Past results don't predict future results. Not investment advice.
 
 模拟盘，过去不代表未来，不是投资建议。
